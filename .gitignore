@@ -1,0 +1,12 @@
+# dependencies
+/node_modules
+/.vscode
+
+# misc
+.DS_Store
+
+# debug
+*.yarn/*
+
+# files
+*wallet.json
