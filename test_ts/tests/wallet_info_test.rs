@@ -1,5 +1,6 @@
 use bs58;
 
+// These tests can be used to transform the private key of an account into u8 vector
 #[test]
 fn wallet_to_base58() {
     
